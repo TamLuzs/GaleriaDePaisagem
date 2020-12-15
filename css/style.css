@@ -1,8 +1,9 @@
 body{
-	background: url(../img/fundo.jpg) grey;
+	background: url(../img/fundo.jpg), grey;
 	width: 100%; 
-    margin: 0 auto;
-    padding: 0 auto;
+    margin: auto;
+	padding: auto;
+	box-sizing: border-box;
 	color: #363636;
 }
 
@@ -14,8 +15,8 @@ h1{
 }
 
 section{
-	margin-left: 10%;
-	margin-right: 10%;
+	margin-left: 15%;
+	width: 80%;
 }
 
 .galeria{

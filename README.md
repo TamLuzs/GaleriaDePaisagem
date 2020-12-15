@@ -1,11 +1,16 @@
 # Galeria de Paisagem/Imagem
-![](https://user-images.githubusercontent.com/48417347/62843340-90f79280-bc8f-11e9-8a09-5c4a093c7502.PNG)
-------------
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/48417347/62843340-90f79280-bc8f-11e9-8a09-5c4a093c7502.PNG">
+</p>
 
-### Objetivo:
-Criar uma galeria de paisagem retro com conceitos básicos de CSS3 e HTML5.
+## Introdução/Objetivo
+Criar uma galeria de paisagem retro com conceitos básicos de HTML e CSS.
 
-### Ferramentas/Codificação Utilizadas:
+### 💻 Layout
+<p align="center">
+    <img src="">
+</p>
+
+## 📦 Ferramentas/Tecnologias Utilizadas:
 - Sublime Text;
-- HTML5;
-- CSS3.
+- HTML5 e CSS3 / HTML e CSS.
