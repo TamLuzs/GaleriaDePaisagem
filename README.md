@@ -8,7 +8,7 @@ Criar uma galeria de paisagem retro com conceitos básicos de HTML e CSS.
 
 ### 💻 Layout
 <p align="center">
-    <img src="">
+    <img src="https://github.com/TamLuzs/GaleriaDePaisagem/blob/master/layout/home.PNG">
 </p>
 
 ## 📦 Ferramentas/Tecnologias Utilizadas:
